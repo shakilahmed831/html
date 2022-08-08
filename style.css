@@ -173,3 +173,16 @@ img{
 	text-decoration: none;
 	color: blue;
 }
+
+.fortop{
+	text-decoration: none;
+	width: 90px;
+	color: blue;
+}
+
+.up{
+	display: flex;
+}
+footer{
+	display: flex;
+}
